@@ -12,4 +12,4 @@ Welcome to the repository for my CV. This repository provides a detailed overvie
 
 ## Contact  
 📧 **Email**: [selee4@uh.edu](mailto:selee4@uh.edu)  
-🌐 **Website**: [songeunemilylee.wordpress.com](https://songeunemilylee.wordpress.com)  
+🌐 **Website**: [songeunemilylee.com](https://songeunemilylee.com)  
